@@ -1,9 +1,9 @@
 {
+  "homepage": "https://github.com/marcelloprado.github.io/quiz-com-react",
+  "type": "module",
   "name": "quiz",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/marcelloprado.github.io/quiz-com-react",
-  "type": "module",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
